@@ -1,0 +1,2 @@
+# WCFService
+WCFService_HotelManager
